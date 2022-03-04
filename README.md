@@ -1,2 +1,9 @@
 # Predict_loan_eligibility
-Loans are the core business of banks. The main profit comes directly from the loan’s interest. The loan companies grant a loan after an intensive process of verification and validation. However, they still don’t have assurance if the applicant is able to repay the loan with no difficulties!
+ML is used in build predictive models to automate the process of targeting the right applicants.
+Logistic Regression 
+Logistic Regression is a classification algorithm. It is used to predict a binary outcome (1 / 0, Yes / No, True / False) given a set of independent variables.
+Decision Tree
+Decision tree is a type of supervised learning algorithm that is mostly used in classification problems. 
+Random Forest
+RandomForest is a tree-based bootstrapping algorithm wherein a certain no. of weak learners (decision trees) are combined to make a powerful prediction model.
+
